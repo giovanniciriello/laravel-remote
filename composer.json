@@ -1,16 +1,16 @@
 {
-    "name": "spatie/laravel-remote",
+    "name": "giovanniciriello/laravel-remote",
     "description": "Execute Artisan commands on remote servers",
     "keywords": [
         "spatie",
         "laravel-remote"
     ],
-    "homepage": "https://github.com/spatie/laravel-remote",
+    "homepage": "https://github.com/giovanniciriello/laravel-remote",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
+            "name": "Giovanni Ciriello",
+            "email": "giovanni.ciriello.5@gmail.com",
             "role": "Developer"
         }
     ],
