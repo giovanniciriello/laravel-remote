@@ -2,7 +2,6 @@
     "name": "giovanniciriello/laravel-remote",
     "description": "Execute Artisan commands on remote servers",
     "keywords": [
-        "spatie",
         "laravel-remote"
     ],
     "homepage": "https://github.com/giovanniciriello/laravel-remote",
