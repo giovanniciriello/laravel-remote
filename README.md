@@ -19,7 +19,7 @@ php artisan remote cache:clear
 You can install the package via composer:
 
 ```bash
-composer require giovanniciriello/laravel-remote
+composer require giovanniciriello/laravel-remote --ignore-platform-reqs
 ```
 
 You can publish the config file with:
